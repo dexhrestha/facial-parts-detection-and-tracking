@@ -2,4 +2,6 @@
 
 This repository is for facial parts detection and tracking. 
 
-# 1. Face & Eye Detection using OpenCV
+# 1. Text Detection using OpenCV
+
+Using EAST Detection
